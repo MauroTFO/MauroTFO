@@ -1,4 +1,4 @@
-## Oi, eu sou o Mauro Teixeira, um programador em progresso..
+## Oi, eu sou Mauro, um programador em progresso..
 
 - ✍🏿 Aluno do Instituto Federal e futuro FullStack.
 - 📚 Atualmente estudando PHP, Laravel e banco de dados.
