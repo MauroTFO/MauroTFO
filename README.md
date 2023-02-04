@@ -5,7 +5,7 @@
 
 <div>
 <a href="https://github.com/MauroTFO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MauroTFO&show_icons=true&theme=swift&include_all_commits&count_private" />
+  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api?username=MauroTFO&show_icons=true&theme=swift&include_all_commits&count_private" />
 </a>
 <a href="https://github.com/MauroTFO">
   <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTFO&layout=compact&theme=swift&langs_count=16&card_width=160&line_height=10" />
