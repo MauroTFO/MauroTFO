@@ -1,7 +1,7 @@
 ## Oi, eu sou Mauro, um programador em progresso..
 
 - ✍🏿 Aluno do Instituto Federal e futuro FullStack.
-- 📚 Atualmente estudando React, Node, Java e Banco de Dados.
+- 📚 Atualmente estudando React, PHP, Node, Java e Banco de Dados.
 
 <div>
 <a href="https://github.com/MauroTFO">
