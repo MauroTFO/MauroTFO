@@ -3,14 +3,13 @@
 - ✍🏿 Aluno do Instituto Federal e futuro FullStack.
 - 📚 Atualmente estudando React, PHP, Node, Java e Banco de Dados.
 
-<div>
-<a href="https://github.com/MauroTFO">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api?username=MauroTFO&show_icons=true&theme=swift&include_all_commits&count_private&card_width=150" />
-</a>
-<a href="https://github.com/MauroTFO">
-  <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTFO&layout=compact&theme=swift&langs_count=16&card_width=160&line_height=10" />
-</a>
-</div>  
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=MauroTFO&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTFO &layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=MauroTFO&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+</p> 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauroTFO&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
 
@@ -38,5 +37,3 @@
   <a href = "mailto:smauro712@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
 </div>
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
