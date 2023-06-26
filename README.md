@@ -10,6 +10,9 @@
 <a href="https://github.com/MauroTFO">
   <img align="center" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MauroTFO&layout=compact&theme=swift&langs_count=16&card_width=160&line_height=10" />
 </a>
+  <a>
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MauroTFO&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
+  </a>
 </div>  
 
 ##
