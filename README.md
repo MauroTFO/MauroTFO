@@ -1,6 +1,6 @@
 ## Oi, eu sou Mauro, um programador em progresso..
 
-- ✍🏿 Aluno do Instituto Federal e futuro FullStack.
+- ✍🏿 Empresário, artista, investidor e programador
 - 📚 Atualmente estudando React, PHP, Node, Vue.js e Sql.
 
 <p align="center">
